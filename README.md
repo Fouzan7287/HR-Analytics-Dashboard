@@ -30,8 +30,8 @@ An interactive **HR Analytics Dashboard** built in **Power BI** to monitor workf
 | **Average Age** | 39 years | Majority aged 25–44 |
 | **Active Employees** | 340 | Stable operational workforce |
 
----
 
+---
 ## 🧠 Learning Outcomes
 - Built DAX formulas for attrition rate, average age, and satisfaction score.
 - Strengthened storytelling through visuals connecting HR KPIs to business outcomes.
